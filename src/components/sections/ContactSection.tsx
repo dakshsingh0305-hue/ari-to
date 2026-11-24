@@ -79,8 +79,8 @@ export default function ContactSection() {
                 {
                   icon: "mail",
                   label: "Email",
-                  value: "hello@ari-to.com",
-                  href: "mailto:hello@ari-to.com",
+                  value: "dakshsingh0305@outlook.com",
+                  href: "mailto:dakshsingh0305@outlook.com",
                 },
                 {
                   icon: "message-circle",

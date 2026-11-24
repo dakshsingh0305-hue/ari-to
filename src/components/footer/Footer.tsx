@@ -93,10 +93,10 @@ export default function Footer() {
           </p>
           <div className="flex items-center gap-6">
             <a
-              href="mailto:hello@ari-to.com"
+              href="mailto:dakshsingh0305@outlook.com"
               className="text-text-muted hover:text-accent-blue transition-colors text-sm interactive"
             >
-              hello@ari-to.com
+              dakshsingh0305@outlook.com
             </a>
             <a
               href={`https://wa.me/${process.env.NEXT_PUBLIC_WHATSAPP_NUMBER || ""}`}
